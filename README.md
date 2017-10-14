@@ -1,6 +1,6 @@
 # SpeedyNetworking
 
-SpeedyNetworking is a sexy networking library inspired by Swift 4 syntax.
+SpeedyNetworking is a sexy JSON networking library inspired by Swift 4 syntax for concise API integration.
 
 ## Inspiration for SpeedyNetworking
 
@@ -48,6 +48,8 @@ If your API uses authentication, you can pass in an authorization header like so
 ```
 SpeedyNetworking.setAuthHeader(authorization: header)
 ```
+
+The cool thing is now we don't have to worry about these in our requests. All we need is the route and the object model.
 
 ### Modeling Data
 
