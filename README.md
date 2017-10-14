@@ -96,7 +96,7 @@ SpeedyNetworking.post(route: "/users", model: createdUser) { response in
 
 ## Feedback And Support
 
-If you have any questions or comments, I'd love to chat. Shoot me an email at gabethecoder@icloud.com.
+If you have any questions or comments, I'd love to chat. Shoot me an email at gabethecoder@icloud.com. You can also pick a fight with me on Twitter [@GabeCoder](https://twitter.com/GabeCoder).
 
 
 
