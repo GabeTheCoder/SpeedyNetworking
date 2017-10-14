@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D89C688B1F9269B600CFB3F4 /* SpeedyNetworking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyNetworking.swift; sourceTree = "<group>"; };
+		D89C688C1F9269B600CFB3F4 /* SpeedyDownload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyDownload.swift; sourceTree = "<group>"; };
+		D89C688D1F9269B600CFB3F4 /* SpeedyParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyParams.swift; sourceTree = "<group>"; };
+		D89C688E1F9269B600CFB3F4 /* SpeedyRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyRequest.swift; sourceTree = "<group>"; };
+		D89C688F1F9269B600CFB3F4 /* SpeedyResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyResponse.swift; sourceTree = "<group>"; };
+		D89C68901F9269B600CFB3F4 /* Speedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speedy.swift; sourceTree = "<group>"; };
+		D89C68911F9269B600CFB3F4 /* SpeedyConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedyConfiguration.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D89C68831F9268C200CFB3F4 = {
+			isa = PBXGroup;
+			children = (
+				D89C688A1F92695000CFB3F4 /* Source */,
+			);
+			sourceTree = "<group>";
+		};
+		D89C688A1F92695000CFB3F4 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				D89C68901F9269B600CFB3F4 /* Speedy.swift */,
+				D89C68911F9269B600CFB3F4 /* SpeedyConfiguration.swift */,
+				D89C688C1F9269B600CFB3F4 /* SpeedyDownload.swift */,
+				D89C688B1F9269B600CFB3F4 /* SpeedyNetworking.swift */,
+				D89C688D1F9269B600CFB3F4 /* SpeedyParams.swift */,
+				D89C688E1F9269B600CFB3F4 /* SpeedyRequest.swift */,
+				D89C688F1F9269B600CFB3F4 /* SpeedyResponse.swift */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D89C68841F9268C200CFB3F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+			};
+			buildConfigurationList = D89C68871F9268C200CFB3F4 /* Build configuration list for PBXProject "SpeedyNetworking" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D89C68831F9268C200CFB3F4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D89C68881F9268C200CFB3F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D89C68891F9268C200CFB3F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D89C68871F9268C200CFB3F4 /* Build configuration list for PBXProject "SpeedyNetworking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89C68881F9268C200CFB3F4 /* Debug */,
+				D89C68891F9268C200CFB3F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D89C68841F9268C200CFB3F4 /* Project object */;
+}
