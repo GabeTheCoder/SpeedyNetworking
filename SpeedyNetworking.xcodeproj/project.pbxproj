@@ -28,12 +28,12 @@
 			isa = PBXGroup;
 			children = (
 				D89C68901F9269B600CFB3F4 /* Speedy.swift */,
-				D89C68911F9269B600CFB3F4 /* SpeedyConfiguration.swift */,
-				D89C688C1F9269B600CFB3F4 /* SpeedyDownload.swift */,
 				D89C688B1F9269B600CFB3F4 /* SpeedyNetworking.swift */,
+				D89C68911F9269B600CFB3F4 /* SpeedyConfiguration.swift */,
 				D89C688D1F9269B600CFB3F4 /* SpeedyParams.swift */,
 				D89C688E1F9269B600CFB3F4 /* SpeedyRequest.swift */,
 				D89C688F1F9269B600CFB3F4 /* SpeedyResponse.swift */,
+				D89C688C1F9269B600CFB3F4 /* SpeedyDownload.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
